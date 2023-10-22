@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-spi" />
+        <module name="Midea-AirCondition" />
+        <module name="User" />
+        <module name="IAirCondition" />
+        <module name="GeLi-AirCondition" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
